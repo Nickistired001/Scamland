@@ -1,0 +1,2 @@
+# Scamland
+Codeday thing
