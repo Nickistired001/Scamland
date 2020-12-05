@@ -1,0 +1,12 @@
+.third {
+    width: 33%
+}
+
+.container {
+    width: 100%;
+    display: inline;
+}
+
+#playercontainer {
+    margin-top: 30%;
+}
